@@ -6,6 +6,6 @@ I am a web developer who currently works with Ruby on Rails. Before I got into s
   - [KyleRego/swiss](https://github.com/KyleRego/swiss) is the theme (it's a fork of Swiss)
   - [KyleRego/the-old-website](https://github.com/KyleRego/the-old-website) was the first version (it's included as a git submodule)
 
-- Anki add-ons I have authored:
+- Anki add-ons:
   - [Anki magnifying glass mouse cursor](https://github.com/KyleRego/anki_magnifying_glass_mouse_cursor)
   - [Anki enumeration tool](https://github.com/KyleRego/anki_enumeration_tool)
