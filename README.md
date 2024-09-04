@@ -1,10 +1,15 @@
-# Hi, my name is Kyle Rego
+# Hi, I am Kyle Rego, I mostly do web development
 
-I am a software developer 🙂
+## Samples of my independent work:
+- [Anki Books](https://ankibooks.io)
+- [Larder](https://larder.lol)
+- [Anki Record gem](https://kylerego.github.io/anki_record_docs)
+- [GitHub Pages blog](https://kylerego.github.io)
+- [Snake game](https://kylerego.github.io/the-old-website/snake)
+- [Anki magnifying glass mouse cursor add-on](https://ankiweb.net/shared/info/842653376)
+- [Notes on the SQLite database schema](https://kylerego.github.io/anki-schema)
 
-At the moment I am applying to software developer/web developer jobs. I am open to working with any technology, but most of my experience is web development with Ruby on Rails, ASP.NET Core, Blazor, and React.
-
-## Overview of my GitHub repos
+## Overview of my GitHub repos by language skill (for recruiters)
 
 ### Ruby
 - [anki_books](https://github.com/KyleRego/anki_books) is a Ruby on Rails note-taking and flashcards app that generates flashcard deck files that import into Anki.
@@ -14,3 +19,7 @@ At the moment I am applying to software developer/web developer jobs. I am open 
 - [AnkiBooks](https://github.com/KyleRego/AnkiBooks) is a partial Blazor rewrite of `anki_books` that inspired a number of posts on my blog.
 - [Gallery](https://github.com/KyleRego/Gallery) is a small Razor Pages project; it is a minimum viable product of an artist's website that allows them to log in and upload images.
 - [Larder](https://github.com/KyleRego/Larder) is an ASP.NET Core and React project intended to be a food/ingredient/nutrition tracking app.
+
+## What I am working on
+
+In this tough job market, I am doing the Revature Pre-Training currently and hope to be hired by them, but until I am hired I am applying to software developer jobs. I am also working on a React/ASP.NET Core project called Larder that is a web app intended to assist with food and ingredient tracking and nutrition.
