@@ -1,6 +1,6 @@
 # Hi, I am Kyle Rego, I mostly do web development
 
-## Samples of my independent work:
+## Samples of some of my work:
 - [Anki Books](https://ankibooks.io)
 - [Larder](https://larder.lol)
 - [Anki Record gem](https://kylerego.github.io/anki_record_docs)
@@ -9,7 +9,7 @@
 - [Anki magnifying glass mouse cursor add-on](https://ankiweb.net/shared/info/842653376)
 - [Notes on the SQLite database schema](https://kylerego.github.io/anki-schema)
 
-## Overview of my GitHub repos by language skill (for recruiters)
+## Overview of my GitHub repos by language skill
 
 ### Ruby
 - [anki_books](https://github.com/KyleRego/anki_books) is a Ruby on Rails note-taking and flashcards app that generates flashcard deck files that import into Anki.
@@ -22,4 +22,4 @@
 
 ## What I am working on
 
-In this tough job market, I am doing the Revature Pre-Training currently and hope to be hired by them, but until I am hired I am applying to software developer jobs. I am also working on a React/ASP.NET Core project called Larder that is a web app intended to assist with food and ingredient tracking and nutrition.
+I am applying to software developer jobs, doing Revature Pre-Training, and also also working on a project called Larder that is a web app intended to assist with food and ingredient tracking and nutrition.
