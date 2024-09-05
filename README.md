@@ -7,7 +7,7 @@
 - [GitHub Pages blog](https://kylerego.github.io)
 - [Snake game](https://kylerego.github.io/the-old-website/snake)
 - [Anki magnifying glass mouse cursor add-on](https://ankiweb.net/shared/info/842653376)
-- [Notes on the SQLite database schema](https://kylerego.github.io/anki-schema)
+- [Notes on the Anki SQLite database schema](https://kylerego.github.io/anki-schema)
 
 ## Overview of my GitHub repos by language skill
 
